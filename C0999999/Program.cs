@@ -11,6 +11,8 @@ namespace C0999999
         static void Main(string[] args)
         {
             Console.WriteLine("YEAHH!");
+            
         }
+        public int Add(int a, int b) { return a + b; }
     }
 }
